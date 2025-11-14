@@ -1,2 +1,1 @@
-# primerProyecto
 # imagynary-country
